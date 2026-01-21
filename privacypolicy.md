@@ -129,4 +129,3 @@ We may update this policy from time to time. We will update the "Last updated" d
 If you have questions or requests, contact us at:
 
 Email: altryscryptoworks@gmail.com
-Company: Altrys Cryptoworks
